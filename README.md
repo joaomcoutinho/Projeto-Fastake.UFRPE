@@ -167,6 +167,9 @@ python main.py
 
 drive: https://drive.google.com/drive/folders/1uhIA0sC4zEqgwUyi6rsmgmzCkKmg3L7M?usp=drive_link
 
+## Artigo do projeto
+
+https://drive.google.com/file/d/14W-V3qhiJk0kQV6W5qeDVyxCWpkPfSsd/view?usp=sharing
 
 ## Autores
 
